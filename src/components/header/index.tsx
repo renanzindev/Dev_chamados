@@ -9,7 +9,7 @@ export function Header() {
             <div className="w-full flex items-center justify-between max-w-7xl mx-auto">
                 <Link href="/">
                     <h1 className="font-bold text-2xl pl-1 hover:tracking-widest duration-300">
-                        <span className=" text-white">DEV</span> <span className="text-green-500">CARSOUL</span>
+                        <span className=" text-white">DEV</span> <span className="text-white">KANBAN</span>
                     </h1>
                 </Link>
 
